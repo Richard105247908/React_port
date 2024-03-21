@@ -35,11 +35,7 @@ export default[
       "image": "src/assets/Password.png"
     },
     {
-      "id": 6,
-      "title": "Code quiz",
-      "deployedLink": "https://richard105247908.github.io/code-quiz/",
-      "githubLink": "https://github.com/Richard105247908/code-quiz",
-      "image": "src/assets/Code-Quiz.png"
+      
     }
     
 ]
