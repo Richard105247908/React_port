@@ -9,7 +9,7 @@ const About = () => (
       <p>I am experienced in developing creative and functional designs, web page layout, creating user interfaces, writing and testing code, and infrastructure to maintain a cohesive website consistent with clients' needs.</p>
     </div>
     <div className="skills-container">
-      <h2>Skills.</h2>
+      <h2>Skills</h2>
       <div className="skills-section">
         <h3 className="title">Technical Skills</h3>
         <div className="skills-list">
