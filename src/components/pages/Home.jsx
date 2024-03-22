@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Panda from '../images/panda.jpg'
 
 
 const Home = () => {
@@ -8,7 +8,7 @@ const Home = () => {
     <div className="container">
       <div className>
         <div className>
-          <img src='src/assets/panda.jpg' width="200px" alt="Avatar" />
+          <img src={Panda} width="200px" alt="Avatar" />
         </div>
         <div className="col-md-6">
           <h1>Hello, I'm Richard Josiah.</h1>
